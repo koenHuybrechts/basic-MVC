@@ -1,6 +1,6 @@
 <?php
 
-class View
+class ProfileView
 {
 	private $model;
 	private $controller;
